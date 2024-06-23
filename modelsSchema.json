@@ -1,0 +1,18 @@
+{
+    "User": {
+        "name": "string",
+        "email": "string",
+        "password": "string",
+        "cart": "array",
+        "isAdmin": "bool",
+        "orders": "array",
+        "contact": "number"
+    },
+
+    "Product": {
+        "image": "string",
+        "name": "string",
+        "price": "number",
+        "discount": "number"
+    }
+}
